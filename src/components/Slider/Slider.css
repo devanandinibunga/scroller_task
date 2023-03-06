@@ -1,0 +1,17 @@
+.description{
+    color: white;
+    font-family:sans-serif;
+    list-style:none;
+}
+
+#scroll{
+    margin-right:2%;
+    width:40%; 
+}
+
+.bg-container { 
+    width: 330px;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+}
